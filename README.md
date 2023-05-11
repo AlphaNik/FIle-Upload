@@ -1,6 +1,6 @@
 #Secured File upload
 
-#this project has following features
+#this mini project has following features
 
 1)Implementation of REST service with token authentication. 
 
